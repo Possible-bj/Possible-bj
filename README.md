@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a passionate developer based in Lagos, Nigeria, with a
 
 ### 🎯 Current Focus
 
-- Building and scaling MERN stack applications.
+- Building and scaling Delivery Solutions.
 - Experimenting with new technologies like Flutter, React Native and DevOps tools like Docker.
 - Contributing to open-source and collaborating on exciting projects.
 - Exploring more advanced React and state management patterns.
