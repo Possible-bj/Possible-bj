@@ -1,4 +1,5 @@
 # Hi there, I'm Benjamin U. Ahunanya 👋
+##### Primarily known as Possible
 
 ### Software Developer | Node and React Developer | Python Enthusiat 
 <!--| Open Source Contributor-->
@@ -27,10 +28,7 @@ Welcome to my GitHub! I'm a passionate developer based in Lagos, Nigeria, with a
 ### 📌 Pinned Repositories
 
 - [**soccer-app**](https://github.com/Possible-bj/soccer-app): A JavaScript project that showcases a simple soccer application. My first ever real-world application - I would do everything in this project differently today.
-- [**expense-app**](https://github.com/Possible-bj/expense-app): A React app that manages expenses of an organization.
-- [**smartbrain**](https://github.com/Possible-bj/smartbrain): A Smart Brain App utilizing React and a third-party API to detect faces on images.
-- [**indecision-app**](https://github.com/Possible-bj/indecision-app): A simple React app that helps users make decisions.
-- [**weather-app**](https://github.com/Possible-bj/weather-app): A JavaScript weather app that provides real-time weather updates.
+
 
 ---
 
